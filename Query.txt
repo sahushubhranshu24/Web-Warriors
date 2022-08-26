@@ -1,0 +1,10 @@
+Query Box
+
+
+Got Anything to Ask..Get it Resolved by Putting it Here
+1. Name
+2. Email
+3. Query
+4. Submit
+
+Your query form has been successfully filled up. It will be answered very soon by our experts.
